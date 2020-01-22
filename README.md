@@ -2,7 +2,7 @@
 * CDN jsDelivr Github 图片
 https://cdn.jsdelivr.net/gh/StrangerWorld/cdnimg/文件路径
 https://cdn.jsdelivr.net/gh/你的用户名/你的仓库名@发布的版本号/文件路径
-![image](https://raw.githubusercontentcom/StrangerWorld/cdnimg/master/1.jpg)
+![image](https://cdn.jsdelivr.net/gh/StrangerWorld/cdnimg/2.jpg)
 <img src='https://cdn.jsdelivr.net/gh/StrangerWorld/cdnimg/1.jpg' height="180" width="180" />
 <img src='https://cdn.jsdelivr.net/gh/StrangerWorld/cdnimg/2.jpg' height="180" width="180" />
 <img src='https://cdn.jsdelivr.net/gh/StrangerWorld/cdnimg/3.jpg' height="180" width="180" />
