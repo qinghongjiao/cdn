@@ -26,7 +26,7 @@
 <img src='https://cdn.jsdelivr.net/gh/StrangerWorld/cdnimg/y6.jpg' height="180" width="180" />
 <img src='https://cdn.jsdelivr.net/gh/StrangerWorld/cdnimg/y7.jpg' height="180" width="180" />
 <img src='https://cdn.jsdelivr.net/gh/StrangerWorld/cdnimg/y8.jpg' height="180" width="180" />
-
+<img src='https://cdn.jsdelivr.net/gh/StrangerWorld/cdnimg/2020.jpg' height="180" width="180" />
 <img src='https://cdn.jsdelivr.net/gh/StrangerWorld/cdnimg/y10.jpg' height="180" width="180" />
 <img src='https://cdn.jsdelivr.net/gh/StrangerWorld/cdnimg/y11.jpg' height="180" width="180" />
 <img src='https://cdn.jsdelivr.net/gh/StrangerWorld/cdnimg/y12.jpg' height="180" width="180" />
