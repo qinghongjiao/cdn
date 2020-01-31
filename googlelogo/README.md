@@ -1,20 +1,12 @@
 # google logo
-#  https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/google/logo/文件路径
-https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/google/logo/actions.png
-https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/google/logo/adSense.png
-https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/google/logo/admob.png
-https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/google/logo/ads.png
-https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/google/logo/aleres.png
-https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/google/logo/analytics.png
-https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/google/logo/android.png
-https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/google/logo/assistant.png
-https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/google/logo/auto.png
-https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/google/logo/文件路径
-https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/google/logo/文件路径
-https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/google/logo/文件路径
-https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/google/logo/文件路径
-https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/google/logo/文件路径
-https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/google/logo/文件路径
-https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/google/logo/文件路径
-https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/google/logo/文件路径
-https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/google/logo/文件路径
+#  https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/文件路径
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/actions.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/adSense.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/admob.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/ads.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/aleres.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/analytics.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/android.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/assistant.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/auto.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/文件路径
