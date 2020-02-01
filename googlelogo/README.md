@@ -31,86 +31,70 @@ https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/doubleclick.png
 https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/drawiings.png
 https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/drive.png
 https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/duo.png
-earch.png
-engagement.png
-expeditions.png
-fi.png
-finance.png
-fit.png
-flights.png
-fonts.png
-forms.png
-g+.png
-game services.png
-games.png
-gboard.png
-gmail.png
-gpay.png
-groups.png
-growth.png
-hangouts.png
-identity.png
-lnput tools.png
-manager.png
-manufacturer.png
-maps location.png
-maps.png
-merchant.png
-messages.png
-monetization.png
-monitoring.png
-music.png
-news.png
-notifications.png
-one.png
-optimize.png
-payments.png
-photos.png
-platform.png
-play.png
-protect.jpg
-scholar.png
-search console.png
-search.png
-search1.png
-sheets.png
-shop.png
-shopping.png
-sites.png
-slides.png
-storage.png
-store.png
-street view.png
-studio.png
-suite.png
-surveys.png
-testing.png
-tilt brush.png
-translate.png
-trends.png
-tv120.png
-voice.png
-waze.png
-wear.png
-wifi.png
-youtube kids.png
-youtube music.png
-youtube.png
-keep.png
-https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/文件路径
-https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/文件路径
-https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/文件路径
-https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/文件路径
-https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/文件路径
-https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/文件路径
-https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/文件路径
-https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/文件路径
-https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/文件路径
-https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/文件路径
-https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/文件路径
-https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/文件路径
-https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/文件路径
-https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/文件路径
-https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/文件路径
-https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/文件路径
-https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/文件路径
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/earch.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/engagement.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/expeditions.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/fi.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/finance.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/fit.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/flights.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/fonts.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/forms.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/g+.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/game services.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/games.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/gboard.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/gmail.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/gpay.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/groups.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/growth.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/hangouts.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/identity.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/lnput tools.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/manager.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/manufacturer.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/maps location.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/maps.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/merchant.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/messages.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/monetization.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/monitoring.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/music.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/news.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/notifications.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/one.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/optimize.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/payments.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/photos.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/platform.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/play.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/protect.jpg
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/scholar.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/search console.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/search.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/search1.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/sheets.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/shop.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/shopping.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/sites.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/slides.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/storage.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/store.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/street view.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/studio.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/suite.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/surveys.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/testing.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/tilt brush.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/translate.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/trends.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/tv120.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/voice.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/waze.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/wear.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/wifi.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/youtube kids.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/youtube music.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/youtube.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/keep.png
+
