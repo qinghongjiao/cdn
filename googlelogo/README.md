@@ -21,6 +21,82 @@ https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/classroom.png
 https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/cloud.png	
 https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/computing.png
 https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/contacts.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/daydream view.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/designer.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/devices.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/digital.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/docs.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/domains.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/doubleclick.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/drawiings.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/drive.png
+https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/duo.png
+earch.png
+engagement.png
+expeditions.png
+fi.png
+finance.png
+fit.png
+flights.png
+fonts.png
+forms.png
+g+.png
+game services.png
+games.png
+gboard.png
+gmail.png
+gpay.png
+groups.png
+growth.png
+hangouts.png
+identity.png
+lnput tools.png
+manager.png
+manufacturer.png
+maps location.png
+maps.png
+merchant.png
+messages.png
+monetization.png
+monitoring.png
+music.png
+news.png
+notifications.png
+one.png
+optimize.png
+payments.png
+photos.png
+platform.png
+play.png
+protect.jpg
+scholar.png
+search console.png
+search.png
+search1.png
+sheets.png
+shop.png
+shopping.png
+sites.png
+slides.png
+storage.png
+store.png
+street view.png
+studio.png
+suite.png
+surveys.png
+testing.png
+tilt brush.png
+translate.png
+trends.png
+tv120.png
+voice.png
+waze.png
+wear.png
+wifi.png
+youtube kids.png
+youtube music.png
+youtube.png
+keep.png
 https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/文件路径
 https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/文件路径
 https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/googlelogo/文件路径
