@@ -41,3 +41,4 @@
 <img src='https://cdn.jsdelivr.net/gh/StrangerWorld/cdnimg/y21.jpg' height="180" width="180" />
 <img src='https://cdn.jsdelivr.net/gh/StrangerWorld/cdnimg/y22.jpg' height="180" width="180" />
 <img src='https://cdn.jsdelivr.net/gh/StrangerWorld/cdnimg/y23.jpg' height="180" width="180" />
+<img src='https://cdn.jsdelivr.net/gh/StrangerWorld/cdnimg/yueliang.png' height="180" width="180" />
