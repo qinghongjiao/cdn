@@ -1,12 +1,12 @@
 # cnd img
 * CDN jsDelivr Github 图片
-* https://cdn.jsdelivr.net/gh/StrangerWorld/cdnimg/文件路径
+* https://cdn.jsdelivr.net/gh/QingHongJiao/cdn/文件路径
 * https://cdn.jsdelivr.net/gh/你的用户名/你的仓库名@发布的版本号/文件路径
-![image](https://cdn.jsdelivr.net/gh/StrangerWorld/cdnimg/2.jpg)
-<img src='https://cdn.jsdelivr.net/gh/StrangerWorld/cdnimg/1.jpg' height="180" width="180" />
-<img src='https://cdn.jsdelivr.net/gh/StrangerWorld/cdnimg/2.jpg' height="180" width="180" />
-<img src='https://cdn.jsdelivr.net/gh/StrangerWorld/cdnimg/3.jpg' height="180" width="180" />
-<img src='https://cdn.jsdelivr.net/gh/StrangerWorld/cdnimg/4.jpg' height="180" width="180" />
+![image](https://cdn.jsdelivr.net/gh/QingHongJiao/cdn/2.jpg)
+<img src='https://cdn.jsdelivr.net/gh/QingHongJiao/cdn/1.jpg' height="180" width="180" />
+<img src='https://cdn.jsdelivr.net/gh/QingHongJiao/cdn/2.jpg' height="180" width="180" />
+<img src='https://cdn.jsdelivr.net/gh/QingHongJiao/cdn/3.jpg' height="180" width="180" />
+<img src='https://cdn.jsdelivr.net/gh/QingHongJiao/cdn/4.jpg' height="180" width="180" />
 <img src='https://cdn.jsdelivr.net/gh/StrangerWorld/cdnimg/banner.jpg' height="200" width="200" />
 <img src='https://cdn.jsdelivr.net/gh/StrangerWorld/cdnimg/banner1.jpg' height="180" width="180" />
 <img src='https://cdn.jsdelivr.net/gh/StrangerWorld/cdnimg/comfortable-graceful.jpg' height="180" width="180" />
