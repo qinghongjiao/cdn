@@ -1,2 +1,2 @@
 blog img
-https://cdn.jsdelivr.net/gh/StrangerWorld/cndimg/blog/
+https://cdn.jsdelivr.net/gh/qinghongjiao/cdn/blog/
